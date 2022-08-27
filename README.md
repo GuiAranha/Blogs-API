@@ -1,3 +1,5 @@
+Blogs API
+
 Projeto de Back-End realizado na Trybe.
 O que foi realizado no projeto:
 - Todas migrations
